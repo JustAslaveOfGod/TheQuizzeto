@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/TheQuizzeto/static/css/main.2d4d4083.chunk.css",
+    "main.js": "/TheQuizzeto/static/js/main.57ec708a.chunk.js",
+    "main.js.map": "/TheQuizzeto/static/js/main.57ec708a.chunk.js.map",
+    "runtime-main.js": "/TheQuizzeto/static/js/runtime-main.92028a35.js",
+    "runtime-main.js.map": "/TheQuizzeto/static/js/runtime-main.92028a35.js.map",
+    "static/js/2.745f6328.chunk.js": "/TheQuizzeto/static/js/2.745f6328.chunk.js",
+    "static/js/2.745f6328.chunk.js.map": "/TheQuizzeto/static/js/2.745f6328.chunk.js.map",
+    "index.html": "/TheQuizzeto/index.html",
+    "static/css/main.2d4d4083.chunk.css.map": "/TheQuizzeto/static/css/main.2d4d4083.chunk.css.map",
+    "static/js/2.745f6328.chunk.js.LICENSE.txt": "/TheQuizzeto/static/js/2.745f6328.chunk.js.LICENSE.txt",
+    "static/media/Cat1.jpg": "/TheQuizzeto/static/media/Cat1.c9e245d8.jpg",
+    "static/media/Cat2.jpg": "/TheQuizzeto/static/media/Cat2.6cf8f42b.jpg",
+    "static/media/Cat3.jpg": "/TheQuizzeto/static/media/Cat3.01bc3df3.jpg",
+    "static/media/Cat4.png": "/TheQuizzeto/static/media/Cat4.b99978a4.png",
+    "static/media/Cat5.jpg": "/TheQuizzeto/static/media/Cat5.e27965c6.jpg",
+    "static/media/cat6.jpg": "/TheQuizzeto/static/media/cat6.09625c40.jpg",
+    "static/media/goodscore.b22cd78d.mp3": "/TheQuizzeto/static/media/goodscore.b22cd78d.mp3",
+    "static/media/index.css": "/TheQuizzeto/static/media/italie.0f57ca58.jpg",
+    "static/media/no.a6a7c766.mp3": "/TheQuizzeto/static/media/no.a6a7c766.mp3",
+    "static/media/timefor.531c7389.mp3": "/TheQuizzeto/static/media/timefor.531c7389.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92028a35.js",
+    "static/js/2.745f6328.chunk.js",
+    "static/css/main.2d4d4083.chunk.css",
+    "static/js/main.57ec708a.chunk.js"
+  ]
+}
