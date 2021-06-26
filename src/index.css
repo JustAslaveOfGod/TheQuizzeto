@@ -1,0 +1,129 @@
+.image{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 1150px ;
+    position: sticky;
+}
+
+.drapeaux{
+    background-image: url("./Images/italie.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    position: absolute;
+    height: 100%;
+}
+.titre{
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    font-family: 'Italianno', cursive;
+}
+.start{
+    text-align: center;
+    size: 20px;
+}
+.starttart {
+	box-shadow:inset 9px 35px 0px -15px #b54b3a;
+	background:linear-gradient(to bottom, #a73f2d 5%, #b34332 100%);
+	background-color:#a73f2d;
+	border:1px solid #241d13;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Courier New;
+	font-size:20px;
+	font-weight:bold;
+	padding:10px 23px;
+	text-decoration:none;
+	text-shadow:-1px -1px 5px #7a2a1d;
+}
+.starttart:hover {
+	background:linear-gradient(to bottom, #b34332 5%, #a73f2d 100%);
+	background-color:#b34332;
+    cursor: not-allowed;
+}
+.starttart:active {
+	position:relative;
+	top:1px;
+}
+.cat44{
+    position: absolute;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 50px;
+    margin-left: 750px;
+}
+.cat55{
+    position: absolute;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 50px;
+    margin-left: 750px;
+}
+.yourname{
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    font-size: 35px;
+    border: 5px ridge #878787;
+    border-radius: 40px;
+    display: inline;
+    margin: 0px auto;
+}
+.divyourname{
+    display: grid;
+}
+.yes  {
+	box-shadow: 0px 1px 0px 0px #1c1b18;
+	background:linear-gradient(to bottom, #ffffff 5%, #6b6b6b 100%);
+	background-color:#ffffff;
+	border-radius:15px;
+	border:2px solid #333029;
+	display:inline-block;
+	cursor:pointer;
+	color:#505739;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:12px 16px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 50px;
+    margin-left: 750px;
+    }
+    .yes:hover {
+        background:linear-gradient(to bottom, #ccc2a6 5%, #eae0c2 100%);
+        background-color:#ccc2a6;
+    }
+    .yes:active {
+        position:relative;
+        top:1px;
+    }
+    
+    .no {
+        box-shadow: 0px 1px 0px 0px #1c1b18;
+        background:linear-gradient(to bottom, #ffffff 5%, #6b6b6b 100%);
+        background-color:#ffffff;
+        border-radius:15px;
+        border:2px solid #333029;
+        display:inline-block;
+        cursor:pointer;
+        color:#505739;
+        font-family:Arial;
+        font-size:14px;
+        font-weight:bold;
+        padding:12px 16px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #ffffff;
+    }
+    .no:hover {
+        background:linear-gradient(to bottom, #ccc2a6 5%, #eae0c2 100%);
+        background-color:#ccc2a6;
+    }
+    .no:active {
+        position:relative;
+        top:1px;
+    }
+
