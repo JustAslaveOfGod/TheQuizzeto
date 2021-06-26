@@ -11,7 +11,7 @@ function App() {
           <Route path="/questions">
             <Secondpage />
           </Route>
-          <Route exact path="/TheQuizzeto">
+          <Route exact path="/">
             <Firstpage />
           </Route>
         </Switch>
